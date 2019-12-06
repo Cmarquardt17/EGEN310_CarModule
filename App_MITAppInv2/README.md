@@ -1,4 +1,4 @@
-#How to Use
+# How to Use
 1. To use this app I created you must goto http://ai2.appinventor.mit.edu/
 2. Download Package to local machine
 3. Import it to MIT App Inventor 2 
